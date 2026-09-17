@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Scalable discovery of spatial multicellular patterns via neighborhood-to-sequence transformation",
+    "authors": [
+      "Fangyuan Zhao",
+      "Sheng Wang",
+      "Zhikang Wang",
+      "Yan Cui",
+      "Yi Zhao",
+      "Zhiyuan Yuan"
+    ],
+    "journal": "Communications Biology",
+    "year": 2026,
+    "doi": "10.1038/s42003-026-09923-1",
+    "code": "https://github.com/zhaofangyuan98/FDPMining",
+    "equal_contributors": []
+  },
+  {
+    "title": "LINS: A general medical Q&A framework for enhancing the quality and credibility of LLM-generated responses",
+    "authors": [
+      "Sheng Wang",
+      "Fangyuan Zhao",
+      "Dechao Bu",
+      "Yunwei Lu",
+      "Ming Gong",
+      "Hongjie Liu",
+      "Zhaohui Yang",
+      "Xiaoxi Zeng",
+      "Zhiyuan Yuan",
+      "Baoping Wan",
+      "Jingbo Sun",
+      "Yang Wu",
+      "Lianhe Zhao",
+      "Xirun Wan",
+      "Wei Huang",
+      "Tao Wang",
+      "Mengtong Xu",
+      "Jianjun Luo",
+      "Jingjia Liu",
+      "Jianjun Zheng",
+      "Wei Zhang",
+      "Kang Zhang",
+      "Hongjia Zhang",
+      "Shu Wang",
+      "RunSheng Chen",
+      "Yi Zhao"
+    ],
+    "journal": "Nature Communications",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-64142-2",
+    "code": "https://github.com/WangSheng21s/LINS",
+    "equal_contributors": [
+      "Sheng Wang",
+      "Fangyuan Zhao",
+      "Dechao Bu",
+      "Yunwei Lu",
+      "Ming Gong"
+    ]
+  },
+  {
+    "title": "MAT: Marker-Lattice Transformer for Entity, Relation and Attribute Extraction From Chinese Clinical Text",
+    "authors": [
+      "Sheng Wang",
+      "Enwei Zhu",
+      "Fangyuan Zhao",
+      "Dechao Bu",
+      "Jinpeng Li",
+      "Yi Zhao"
+    ],
+    "journal": "IEEE Transactions on Audio, Speech and Language Processing",
+    "year": 2025,
+    "doi": "10.1109/taslpro.2025.3579311",
+    "code": null,
+    "equal_contributors": []
+  },
+  {
+    "title": "Benchmarking spatial clustering methods with spatially resolved transcriptomics data",
+    "authors": [
+      "Zhiyuan Yuan",
+      "Fangyuan Zhao",
+      "Senlin Lin",
+      "Yu Zhao",
+      "Jianhua Yao",
+      "Yan Cui",
+      "Xiao-Yong Zhang",
+      "Yi Zhao"
+    ],
+    "journal": "Nature Methods",
+    "year": 2024,
+    "doi": "10.1038/s41592-024-02215-8",
+    "code": "https://github.com/zhaofangyuan98/SDMBench",
+    "equal_contributors": [
+      "Zhiyuan Yuan",
+      "Fangyuan Zhao"
+    ]
+  },
+  {
+    "title": "Streamlining spatial omics data analysis with Pysodb",
+    "authors": [
+      "Senlin Lin",
+      "Fangyuan Zhao",
+      "Zihan Wu",
+      "Jianhua Yao",
+      "Yi Zhao",
+      "Zhiyuan Yuan"
+    ],
+    "journal": "Nature Protocols",
+    "year": 2024,
+    "doi": "10.1038/s41596-023-00925-5",
+    "code": "https://github.com/TencentAILabHealthcare/pysodb",
+    "equal_contributors": []
+  },
+  {
+    "title": "SODB facilitates comprehensive exploration of spatial omics data",
+    "authors": [
+      "Zhiyuan Yuan",
+      "Wentao Pan",
+      "Xuan Zhao",
+      "Fangyuan Zhao",
+      "Zhimeng Xu",
+      "Xiu Li",
+      "Yi Zhao",
+      "Michael Q. Zhang",
+      "Jianhua Yao"
+    ],
+    "journal": "Nature Methods",
+    "year": 2023,
+    "doi": "10.1038/s41592-023-01773-7",
+    "code": "https://github.com/yuanzhiyuan/SODB_analysis",
+    "equal_contributors": [
+      "Zhiyuan Yuan",
+      "Wentao Pan"
+    ]
+  }
+]
