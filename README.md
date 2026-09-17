@@ -19,6 +19,6 @@ Bibliographic records were checked against ORCID 0009-0009-9623-7945, Crossref a
 
 ORCID lists the SODB publisher correction (10.1038/s41592-023-01844-9). This website lists the verified original paper (10.1038/s41592-023-01773-7) and links its correction underneath, avoiding a duplicate research-paper entry.
 
-Publication overview images are from the corresponding publisher pages and remain attributed to their respective authors/publishers. Each image links to its source article. The avatar is the account's public GitHub identicon. The layout is independently implemented, inspired by https://hongxin2019.github.io/.
+Publication overview images are from the corresponding publisher pages and remain attributed to their respective authors/publishers. Each image links to its source article. The avatar is the account's public GitHub identicon.
 
 The introductory research summary is based on the listed publications. Current position, current affiliation, personal photograph and contact email are not assumed. No analytics or visitor tracking are included.
