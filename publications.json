@@ -58,22 +58,6 @@
     ]
   },
   {
-    "title": "MAT: Marker-Lattice Transformer for Entity, Relation and Attribute Extraction From Chinese Clinical Text",
-    "authors": [
-      "Sheng Wang",
-      "Enwei Zhu",
-      "Fangyuan Zhao",
-      "Dechao Bu",
-      "Jinpeng Li",
-      "Yi Zhao"
-    ],
-    "journal": "IEEE Transactions on Audio, Speech and Language Processing",
-    "year": 2025,
-    "doi": "10.1109/taslpro.2025.3579311",
-    "code": null,
-    "equal_contributors": []
-  },
-  {
     "title": "Benchmarking spatial clustering methods with spatially resolved transcriptomics data",
     "authors": [
       "Zhiyuan Yuan",
