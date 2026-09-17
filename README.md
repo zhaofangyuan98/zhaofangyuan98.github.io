@@ -21,4 +21,4 @@ ORCID lists the SODB publisher correction (10.1038/s41592-023-01844-9). This web
 
 Publication overview images are from the corresponding publisher pages and remain attributed to their respective authors/publishers. Each image links to its source article.
 
-The introductory research summary is based on the listed publications. Position and affiliation were supplied by the site owner. No analytics or visitor tracking are included.
+The biography, position and affiliation were supplied by the site owner. No analytics or visitor tracking are included.
