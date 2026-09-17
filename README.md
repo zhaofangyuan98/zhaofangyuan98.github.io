@@ -15,7 +15,7 @@ GitHub Pages publishes the root of the `main` branch.
 
 ## Content provenance
 
-Bibliographic records were checked against ORCID 0009-0009-9623-7945, Crossref and publisher pages on 2026-09-17. Author order is preserved. Equal-contribution markers follow publisher author notes for LINS, SDMBench and SODB. Pysodb is listed under the 2024 journal issue (online publication: 22 December 2023).
+Bibliographic records were checked against ORCID 0009-0009-9623-7945, Crossref and publisher pages on 2026-09-17. Author order is preserved. Equal-contribution markers follow publisher author notes for LINS, SDMBench and SODB. Pysodb is listed by its online publication year, 2023 (22 December 2023).
 
 ORCID lists the SODB publisher correction (10.1038/s41592-023-01844-9). This website lists the verified original paper (10.1038/s41592-023-01773-7), avoiding a duplicate research-paper entry.
 
